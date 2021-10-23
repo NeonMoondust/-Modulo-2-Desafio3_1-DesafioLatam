@@ -1,0 +1,66 @@
+/* Normalize------*/
+body,h1,h2,h3,h4,h5,p,section,article,div,nav,footer,ul,li,ol{margin: 0;padding: 0;}
+/*Normalize------*/
+nav{
+    border-bottom: solid #729E2E 5px;
+    box-shadow: 0px 5px 0 #507C0C;
+}
+body{
+    background-color: #35313C;
+    font-family: 'Orbitron', sans-serif;;
+}
+.main-logo{
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    margin-left: 2rem;
+}
+
+h1{
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    padding-right: 13rem;
+}
+
+.box-mostrar{
+    background-color: #1B1C20;
+    margin: 2rem 10rem 0px;
+    border-radius: 25px;
+}
+
+th{
+    font-weight: 300;
+    border: 1.5px solid #34363B;
+    min-height: 40px;
+    min-width: 181px;
+    padding-top: 6px;
+    color: #fff;
+}
+
+td{
+    font-weight: 300;
+    border: 1.5px solid #34363B;
+    min-height: 40px;
+    min-width: 181px;
+    padding-top: 6px;
+}
+
+.tabla-mostrar{
+    border-top: 1.5px solid #FFC107;
+    margin: 2rem 13rem;
+    display: inline-block;
+}
+
+.tabla {
+    margin: 2rem 1rem;
+    color: #729E2E;
+    background-color: #1B1C20;
+}
+
+footer{
+    margin-top: 2rem;
+    margin-bottom: .5rem;
+    border-top: solid #729E2E 5px;
+    box-shadow: 0px -5px 0 #507C0C;
+    font-weight: 700;
+}
